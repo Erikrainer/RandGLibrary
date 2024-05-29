@@ -41,10 +41,12 @@ TBD
   https://opensource.org/licenses/MIT
 
 ## Contributors 😃
+
 <a href="https://github.com/Erikrainer/RandG-SocialNetwork/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Erikrainer/RandG-SocialNetwork" />
 </a>
 
+ErikRainer
 ## Tests 🧪
 
 To run tests, run these commands:
