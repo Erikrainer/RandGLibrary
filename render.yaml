@@ -1,6 +1,8 @@
 services:
   - type: web
-    name: RandGLibrary
-    env: static
-    buildCommand: cd client && npm install && npm run build
-    staticPublishPath: client/build
+    name: my-react-app
+    env: node
+    buildCommand: npm run render-build
+    startCommand: npm start
+    envVars:
+      NODE_ENV: production
